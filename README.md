@@ -1,4 +1,4 @@
-<h1>Hi, I'm Heidi, an <a href="https://www.linkedin.com/in/heidi-bolivar-349538327/">IT Professional</a>☺</h1>
+<h1>Hello there, I'm Heidi, an <a href="https://www.linkedin.com/in/heidi-bolivar-349538327/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
