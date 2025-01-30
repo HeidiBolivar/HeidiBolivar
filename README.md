@@ -7,7 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/HeidiBolivar/post-install-config)
   - [osTicket: Creating and Working Tickets](https://github.com/HeidiBolivar/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/HeidiBolivar/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/HeidiBolivar/azure-network-protocols)
 - <b>Active Directory</b>
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/HeidiBolivar/AD_Preparing_Active_Directory_In_Azure)
