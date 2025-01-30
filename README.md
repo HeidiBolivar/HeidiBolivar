@@ -11,8 +11,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/HeidiBolivar/azure-network-protocols)
 - <b>Active Directory</b>
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/HeidiBolivar/AD_Preparing_Active_Directory_In_Azure)
-  - [Active Directory: Deploying Active Directory in Azure]()
-  - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure]()
+  - [Active Directory: Deploying Active Directory in Azure](https://github.com/HeidiBolivar/Active-Directory-Deploying-Active-Directory-in-Azure)
+  - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/HeidiBolivar/AD_Creating_Users_Group_Policies_And_Managing_Accounts)
 
 <h2>🤳Connect with me:</h2>
 
