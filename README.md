@@ -9,6 +9,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/HeidiBolivar/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/HeidiBolivar/azure-network-protocols)
+- <b>Active Directory</b>
+  - [Active Directory: Preparing Infrastructure in Azure](-)
+  - [Active Directory: Deploying Active Directory in Azure]()
+  - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure]()
 
 <h2>🤳Connect with me:</h2>
 
