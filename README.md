@@ -15,7 +15,7 @@
 
 <h2>🤖 AI Productivity Project:</h2>
 
-  - <b> [AI Powered Productivity Toolkit](https://github.com/HeidiBolivar/AD_Preparing_Active_Directory_In_Azure) </b>
+  - <b> [AI Powered Productivity Toolkit](https://github.com/HeidiBolivar/AI-Powered-Productivity-Toolkit) </b>
 
 
 <h2>🤳Connect with me:</h2>
