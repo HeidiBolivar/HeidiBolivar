@@ -1,4 +1,4 @@
-<h1>Hello there, I'm Heidi, an <a href="https://www.linkedin.com/in/heidi-bolivar-349538327/">IT Professional</a>☺</h1>
+<h1>Hello there, I'm Heidi, your <a href="https://www.linkedin.com/in/heidi-bolivar-349538327/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -12,6 +12,11 @@
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/HeidiBolivar/AD_Preparing_Active_Directory_In_Azure)
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/HeidiBolivar/Active-Directory-Deploying-Active-Directory-in-Azure)
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/HeidiBolivar/AD_Creating_Users_Group_Policies_And_Managing_Accounts)
+
+<h2>🤖 AI Productivity Project:</h2>
+
+  - <b> [AI Powered Productivity Toolkit](https://github.com/HeidiBolivar/AD_Preparing_Active_Directory_In_Azure) </b>
+
 
 <h2>🤳Connect with me:</h2>
 
