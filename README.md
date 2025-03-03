@@ -22,13 +22,13 @@
   <img align="left" width="40px" src="img/AzureLogo.png" /> 
   <img align="left" width="40px" src="img/ADLogo.png" /> 
   <img align="left" width="40px" src="img/google-ai-studioLogo.png" /> 
-  <img align="left" width="60px" src="img/ExcelLogo.png" />
+  <img align="left" alt="70px" width="50px" src="img/ExcelLogo.png" />
   <img align="left" width="60px" src="img/Ticketingsystem.png" />
   <img align="left" width="40px" src="img/notion-icon.png" />
   <img align="left" width="40px" src="img/Microsoftoffice.png" />
   <img align="left" width="40px" src="img/TeamsLogo.png" />
   <img align="left" width="40px" src="img/Meet.png" />
-  <img align="center" width="40px" src="img/Driveicon.png" />
+  <img align="center" width="50px" src="img/Driveicon.png" />
 
 
 <h2>🤳Connect with me:</h2>
