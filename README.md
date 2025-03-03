@@ -36,7 +36,6 @@
   [<img align="left" width="40px" src="img/Perplexity-logo.png" />][Perplexity]
   [<img align="left" width="40px" src="img/claude-logo.png" />][Claude]
   [<img align="left" width="40px" src="img/Presentations.aiLogo.png" />][Presentations.ai]
-  [<img align="left" width="40px" src="" />][]
   
 [Azure]: https://portal.azure.com/#home
 [AD]: https://www.quest.com/solutions/active-directory/what-is-active-directory.aspx#:~:text=Active%20Directory%20(AD)%20is%20a,who's%20allowed%20to%20do%20what.
