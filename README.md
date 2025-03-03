@@ -32,6 +32,7 @@
   [<img width="45px" src="img/ADLogo.png" />][AD]
   [<img width="60px" src="img/Ticketingsystem.png" />][TicketSys]
   [<img width="40px" src="img/notion-icon.png" />][Notion]
+  [<img width="53px" src="img/Salesforce.png" />][Salesforce]
   [<img width="40px" src="img/Slackicon.png" />][Slack]
   [<img width="40px" src="img/Microsoftoffice.png" />][Office365]
   [<img width="45px" src="img/ExcelLogo.png" />][Excel]
@@ -42,10 +43,13 @@
   [<img width="40px" src="img/claude-logo.png" />][Claude]
   [<img width="45px" src="img/Perplexity-logo.png" />][Perplexity]
   [<img width="45px" src="img/Presentations.aiLogo.png" />][Presentations.ai]
+
+
   
 [Azure]: https://portal.azure.com/#home
 [AD]: https://www.quest.com/solutions/active-directory/what-is-active-directory.aspx#:~:text=Active%20Directory%20(AD)%20is%20a,who's%20allowed%20to%20do%20what.
 [TicketSys]: https://www.zendesk.com/blog/ticketing-system/
+[Salesforce]: https://www.salesforce.com/us/?ir=1
 [Office365]: https://www.microsoft365.com/apps?home=1&auth=2
 [Excel]: https://www.microsoft365.com/launch/Excel/?home=1
 [Notion]: https://www.notion.com
