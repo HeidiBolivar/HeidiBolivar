@@ -28,14 +28,14 @@
   [<img align="left" width="40px" src="img/notion-icon.png" />][Notion]
   [<img align="left" width="40px" src="img/Slackicon.png" />][Slack]
   [<img align="left" width="40px" src="img/Microsoftoffice.png" />][Office365]
-  [<img align="left" alt="70px" width="50px" src="img/ExcelLogo.png" />][Excel]
+  [<img align="left" alt="40px" width="50px" src="img/ExcelLogo.png" />][Excel]
   [<img align="left" width="50px" src="img/Driveicon.png" />][Drive]
   [<img align="left" width="40px" src="img/TeamsLogo.png" />][Teams]
   [<img align="left" width="40px" src="img/googleaistudioLogo.png" />][GAIstudio]
   [<img align="left" width="40px" src="img/ChatgptLogo.jpg" />][Chatgpt]
   [<img width="40px" src="img/claude-logo.png" />][Claude]
   
-  [<img align="left" width="40px" src="img/Perplexity-logo.png" />][Perplexity]
+  [<img align="left" width="45px" src="img/Perplexity-logo.png" />][Perplexity]
   [<img align="left" align="left" width="40px" src="img/Presentations.aiLogo.png" />][Presentations.ai]
 
 
