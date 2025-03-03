@@ -30,17 +30,17 @@
 
   [<img width="40px" src="img/AzureLogo.png" />][Azure]
   [<img width="40px" src="img/ADLogo.png" />][AD]
-  [<img width="60px" src="img/Ticketingsystem.png" />][TicketSys]
+  [<img width="40px" src="img/Ticketingsystem.png" />][TicketSys]
   [<img width="40px" src="img/notion-icon.png" />][Notion]
   [<img width="40px" src="img/Slackicon.png" />][Slack]
   [<img width="40px" src="img/Microsoftoffice.png" />][Office365]
-  [<img alt="40px" width="50px" src="img/ExcelLogo.png" />][Excel]
-  [<img width="50px" src="img/Driveicon.png" />][Drive]
+  [<img width="40px" src="img/ExcelLogo.png" />][Excel]
+  [<img width="40px" src="img/Driveicon.png" />][Drive]
   [<img width="40px" src="img/TeamsLogo.png" />][Teams]
   [<img width="40px" src="img/googleaistudioLogo.png" />][GAIstudio]
   [<img width="40px" src="img/ChatgptLogo.jpg" />][Chatgpt]
   [<img width="40px" src="img/claude-logo.png" />][Claude]
-  [<img width="45px" src="img/Perplexity-logo.png" />][Perplexity]
+  [<img width="40px" src="img/Perplexity-logo.png" />][Perplexity]
   [<img width="40px" src="img/Presentations.aiLogo.png" />][Presentations.ai]
   
 [Azure]: https://portal.azure.com/#home
