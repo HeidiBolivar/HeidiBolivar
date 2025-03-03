@@ -21,23 +21,36 @@
 
 <h2>🛠️ Familiarity and proficiency with professional technical tools</h2>
 
-  <img align="left" width="40px" src="img/AzureLogo.png" /> 
-  <img align="left" width="40px" src="img/ADLogo.png" /> 
-  <img align="left" width="60px" src="img/Ticketingsystem.png" />
-  <img align="left" width="40px" src="img/Microsoftoffice.png" />
-  <img align="left" alt="70px" width="50px" src="img/ExcelLogo.png" />
-  <img align="left" width="40px" src="img/notion-icon.png" />
-  <img align="left" width="50px" src="img/Driveicon.png" />
-  <img align="left" width="40px" src="img/Meet.png" />
-  <img align="left" width="40px" src="img/TeamsLogo.png" />
-  <img align="left" width="40px" src="img/Slackicon.png" />
-  <img align="left" width="40px" src="img/ChatgptLogo.jpg" />
-  <img align="left" width="40px" src="img/googleaistudioLogo.png" /> 
-  <img align="left" width="40px" src="img/Perplexity-logo.png" />
-  <img align="left" width="40px" src="img/claude-logo.png" />
-  <img align="left" width="40px" src="img/Presentations.aiLogo.png" />
-  <img align="left" width="40px" src="img/ChatgptLogo.jpg" />
+  [<img align="left" width="40px" src="img/AzureLogo.png" />][Azure]
+  [<img align="left" width="40px" src="img/ADLogo.png" />][AD]
+  [<img align="left" width="60px" src="img/Ticketingsystem.png" />][TicketSys]
+  [<img align="left" width="40px" src="img/Microsoftoffice.png" />][Office365]
+  [<img align="left" alt="70px" width="50px" src="img/ExcelLogo.png" />][Excel]
+  [<img align="left" width="40px" src="img/notion-icon.png" />][Notion]
+  [<img align="left" width="50px" src="img/Driveicon.png" />][Drive]
+  [<img align="left" width="40px" src="img/Meet.png" />][Meet]
+  [<img align="left" width="40px" src="img/TeamsLogo.png" />][Teams]
+  [<img align="left" width="40px" src="img/Slackicon.png" />][Slack]
+  [<img align="left" width="40px" src="img/ChatgptLogo.jpg" />][Chatgpt]
+  [<img align="left" width="40px" src="img/googleaistudioLogo.png" />][GAIstudio]
+  [<img align="left" width="40px" src="img/Perplexity-logo.png" />][Perplexity]
+  [<img align="left" width="40px" src="img/claude-logo.png" />][Claude]
+  [<img align="left" width="40px" src="img/Presentations.aiLogo.png" />][Presentations.ai]
+  [<img align="left" width="40px" src="" />][]
   
-
-  
-
+[Azure]: https://portal.azure.com/#home
+[AD]: https://www.quest.com/solutions/active-directory/what-is-active-directory.aspx#:~:text=Active%20Directory%20(AD)%20is%20a,who's%20allowed%20to%20do%20what.
+[TicketSys]: https://www.zendesk.com/blog/ticketing-system/
+[Office365]: https://www.microsoft365.com/apps?home=1&auth=2
+[Excel]: https://www.microsoft365.com/launch/Excel/?home=1
+[Notion]: https://www.notion.com
+[Drive]: https://drive.google.com/drive/u/0/home
+[Meet]: https://meet.google.com/landing?authuser=0
+[Teams]: https://www.microsoft.com/en-us/microsoft-teams/group-chat-software
+[Slack]: https://slack.com/intl/es-co/
+[Chatgpt]: https://chatgpt.com
+[GAIstudio]: https://aistudio.google.com/prompts/new_chat
+[Perplexity]: https://www.perplexity.ai
+[Claude]: https://claude.ai
+[Presentations.ai]: https://www.presentations.ai/
+[]:
