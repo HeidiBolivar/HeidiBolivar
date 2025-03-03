@@ -40,7 +40,7 @@
   [<img width="40px" src="img/googleaistudioLogo.png" />][GAIstudio]
   [<img width="40px" src="img/ChatgptLogo.jpg" />][Chatgpt]
   [<img width="40px" src="img/claude-logo.png" />][Claude]
-  [<img align="left" width="45px" src="img/Perplexity-logo.png" />][Perplexity]
+  [<img width="45px" src="img/Perplexity-logo.png" />][Perplexity]
   [<img width="40px" src="img/Presentations.aiLogo.png" />][Presentations.ai]
   
 [Azure]: https://portal.azure.com/#home
