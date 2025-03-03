@@ -13,7 +13,9 @@
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/HeidiBolivar/Active-Directory-Deploying-Active-Directory-in-Azure)
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/HeidiBolivar/AD_Creating_Users_Group_Policies_And_Managing_Accounts)
 
-<h2>🤖 AI Productivity Project:</h2>
+
+
+<h2>🤖 AI Productivity Organization:</h2> 
 
   - <b> [AI Powered Productivity Toolkit](https://github.com/HeidiBolivar/AI-Powered-Productivity-Toolkit) </b>
 
@@ -31,8 +33,3 @@
   <img align="center" width="50px" src="img/Driveicon.png" />
 
 
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Heidi | LinkedIn" width="30px" src="img/LinkedInLogo.jpg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/heidi-bolivar-349538327/
