@@ -33,7 +33,7 @@
   [<img align="left" width="40px" src="img/Slackicon.png" />][Slack]
   [<img align="left" width="40px" src="img/ChatgptLogo.jpg" />][Chatgpt]
   [<img align="left" width="40px" src="img/googleaistudioLogo.png" />][GAIstudio]
-  [<img align="left" width="40px" src="img/Perplexity-logo.png" />][Perplexity]
+  [<img align="center" width="40px" src="img/Perplexity-logo.png" />][Perplexity]
   [<img align="left" width="40px" src="img/claude-logo.png" />][Claude]
   [<img align="left" width="40px" src="img/Presentations.aiLogo.png" />][Presentations.ai]
   
