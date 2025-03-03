@@ -21,6 +21,7 @@
 
 <h2>🛠️ Familiarity and proficiency with professional technical tools</h2>
 
+
   [<img align="left" width="40px" src="img/AzureLogo.png" />][Azure]
   [<img align="left" width="40px" src="img/ADLogo.png" />][AD]
   [<img align="left" width="60px" src="img/Ticketingsystem.png" />][TicketSys]
@@ -33,10 +34,13 @@
   [<img align="left" width="40px" src="img/Slackicon.png" />][Slack]
   [<img align="left" width="40px" src="img/ChatgptLogo.jpg" />][Chatgpt]
   [<img align="left" width="40px" src="img/googleaistudioLogo.png" />][GAIstudio]
-  [<img align="center" width="40px" src="img/Perplexity-logo.png" />][Perplexity]
-  [<img align="left" width="40px" src="img/claude-logo.png" />][Claude]
-  [<img align="left" width="40px" src="img/Presentations.aiLogo.png" />][Presentations.ai]
+  [<img width="40px" src="img/Perplexity-logo.png" />][Perplexity]
+
   
+  [<img width="40px" src="img/claude-logo.png" />][Claude]
+  [<img align="left" align="left" width="40px" src="img/Presentations.aiLogo.png" />][Presentations.ai]
+
+
 [Azure]: https://portal.azure.com/#home
 [AD]: https://www.quest.com/solutions/active-directory/what-is-active-directory.aspx#:~:text=Active%20Directory%20(AD)%20is%20a,who's%20allowed%20to%20do%20what.
 [TicketSys]: https://www.zendesk.com/blog/ticketing-system/
@@ -52,4 +56,5 @@
 [Perplexity]: https://www.perplexity.ai
 [Claude]: https://claude.ai
 [Presentations.ai]: https://www.presentations.ai/
+
 
