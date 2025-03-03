@@ -25,13 +25,14 @@
   [<img align="left" width="40px" src="img/AzureLogo.png" />][Azure]
   [<img align="left" width="40px" src="img/ADLogo.png" />][AD]
   [<img align="left" width="60px" src="img/Ticketingsystem.png" />][TicketSys]
+  [<img align="left" width="40px" src="img/notion-icon.png" />][Notion]
+  [<img align="left" width="40px" src="img/Slackicon.png" />][Slack]
   [<img align="left" width="40px" src="img/Microsoftoffice.png" />][Office365]
   [<img align="left" alt="70px" width="50px" src="img/ExcelLogo.png" />][Excel]
-  [<img align="left" width="40px" src="img/notion-icon.png" />][Notion]
+  
   [<img align="left" width="50px" src="img/Driveicon.png" />][Drive]
-  [<img align="left" width="40px" src="img/Meet.png" />][Meet]
   [<img align="left" width="40px" src="img/TeamsLogo.png" />][Teams]
-  [<img align="left" width="40px" src="img/Slackicon.png" />][Slack]
+  
   [<img align="left" width="40px" src="img/ChatgptLogo.jpg" />][Chatgpt]
   [<img align="left" width="40px" src="img/googleaistudioLogo.png" />][GAIstudio]
   [<img width="40px" src="img/Perplexity-logo.png" />][Perplexity]
