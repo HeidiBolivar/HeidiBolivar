@@ -28,20 +28,20 @@
 <h2>🛠️ Familiarity and proficiency with professional technical tools</h2>
 
 
-  [<img width="40px" src="img/AzureLogo.png" />][Azure]
-  [<img width="40px" src="img/ADLogo.png" />][AD]
-  [<img width="40px" src="img/Ticketingsystem.png" />][TicketSys]
+  [<img width="45px" src="img/AzureLogo.png" />][Azure]
+  [<img width="45px" src="img/ADLogo.png" />][AD]
+  [<img width="60px" src="img/Ticketingsystem.png" />][TicketSys]
   [<img width="40px" src="img/notion-icon.png" />][Notion]
   [<img width="40px" src="img/Slackicon.png" />][Slack]
   [<img width="40px" src="img/Microsoftoffice.png" />][Office365]
-  [<img width="40px" src="img/ExcelLogo.png" />][Excel]
-  [<img width="40px" src="img/Driveicon.png" />][Drive]
-  [<img width="40px" src="img/TeamsLogo.png" />][Teams]
-  [<img width="40px" src="img/googleaistudioLogo.png" />][GAIstudio]
-  [<img width="40px" src="img/ChatgptLogo.jpg" />][Chatgpt]
+  [<img width="45px" src="img/ExcelLogo.png" />][Excel]
+  [<img width="50px" src="img/Driveicon.png" />][Drive]
+  [<img width="45px" src="img/TeamsLogo.png" />][Teams]
+  [<img width="45px" src="img/googleaistudioLogo.png" />][GAIstudio]
+  [<img width="45px" src="img/ChatgptLogo.jpg" />][Chatgpt]
   [<img width="40px" src="img/claude-logo.png" />][Claude]
-  [<img width="40px" src="img/Perplexity-logo.png" />][Perplexity]
-  [<img width="40px" src="img/Presentations.aiLogo.png" />][Presentations.ai]
+  [<img width="45px" src="img/Perplexity-logo.png" />][Perplexity]
+  [<img width="45px" src="img/Presentations.aiLogo.png" />][Presentations.ai]
   
 [Azure]: https://portal.azure.com/#home
 [AD]: https://www.quest.com/solutions/active-directory/what-is-active-directory.aspx#:~:text=Active%20Directory%20(AD)%20is%20a,who's%20allowed%20to%20do%20what.
