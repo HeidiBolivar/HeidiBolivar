@@ -23,13 +23,21 @@
 
   <img align="left" width="40px" src="img/AzureLogo.png" /> 
   <img align="left" width="40px" src="img/ADLogo.png" /> 
-  <img align="left" width="40px" src="img/googleaistudioLogo.png" /> 
-  <img align="left" alt="70px" width="50px" src="img/ExcelLogo.png" />
   <img align="left" width="60px" src="img/Ticketingsystem.png" />
-  <img align="left" width="40px" src="img/notion-icon.png" />
   <img align="left" width="40px" src="img/Microsoftoffice.png" />
-  <img align="left" width="40px" src="img/TeamsLogo.png" />
-  <img align="left" width="40px" src="img/Meet.png" />
+  <img align="left" alt="70px" width="50px" src="img/ExcelLogo.png" />
+  <img align="left" width="40px" src="img/notion-icon.png" />
   <img align="left" width="50px" src="img/Driveicon.png" />
-  <img align="center" width="40px" src="img/Slackicon.png" />
+  <img align="left" width="40px" src="img/Meet.png" />
+  <img align="left" width="40px" src="img/TeamsLogo.png" />
+  <img align="left" width="40px" src="img/Slackicon.png" />
+  <img align="left" width="40px" src="img/ChatgptLogo.jpg" />
+  <img align="left" width="40px" src="img/googleaistudioLogo.png" /> 
+  <img align="left" width="40px" src="img/Perplexity-logo.png" />
+  <img align="left" width="40px" src="img/claude-logo.png" />
+  <img align="left" width="40px" src="img/Presentations.aiLogo.png" />
+  <img align="left" width="40px" src="img/ChatgptLogo.jpg" />
+  
+
+  
 
