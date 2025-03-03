@@ -1,4 +1,4 @@
-<h1>Hello there, I'm Heidi, your <a href="https://www.linkedin.com/in/heidi-bolivar-349538327/">IT Professional</a>☺</h1>
+<h1>Hello there, I'm Heidi, your <a href="https://www.linkedin.com/in/heidi-bolivar-349538327/">IT Professional</a>🚀</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -15,11 +15,11 @@
 
 
 
-<h2>🤖 AI Productivity Organization:</h2> 
+<h2>🤖 AI-Powered Productivity Toolkit Development: Design & Implementation:</h2> 
 
   - <b> [AI Powered Productivity Toolkit](https://github.com/HeidiBolivar/AI-Powered-Productivity-Toolkit) </b>
 
-<h2>Technical abilities</h2>
+<h2>🛠️ Familiarity and proficiency with professional technical tools</h2>
 
   <img align="left" width="40px" src="img/AzureLogo.png" /> 
   <img align="left" width="40px" src="img/ADLogo.png" /> 
@@ -30,6 +30,6 @@
   <img align="left" width="40px" src="img/Microsoftoffice.png" />
   <img align="left" width="40px" src="img/TeamsLogo.png" />
   <img align="left" width="40px" src="img/Meet.png" />
-  <img align="center" width="50px" src="img/Driveicon.png" />
-
+  <img align="left" width="50px" src="img/Driveicon.png" />
+  <img align="center" width="40px" src="img/Slackicon.png" />
 
