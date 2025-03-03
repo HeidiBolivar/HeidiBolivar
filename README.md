@@ -22,7 +22,7 @@
 
 <h2>🙋‍♀️ About me:</h2> 
 
-  - <b> [AI Powered Productivity Toolkit](https://github.com/HeidiBolivar/AI-Powered-Productivity-Toolkit) </b>
+  - <b> [Discover My Story](https://github.com/HeidiBolivar/about-me) </b>
 
 
 <h2>🛠️ Familiarity and proficiency with professional technical tools</h2>
